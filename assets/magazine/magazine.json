@@ -1,0 +1,66 @@
+{
+    "magazine": [
+        {
+            "judul": "#4",
+            "tahun": "Tahun 2019",
+            "feature": "https://seismolog-bit.github.io/tazkia-news/assets/magazine/2019/Tazkia_Magazine_2019_fix-001.jpg",
+            "content": [
+                "Tazkia_Magazine_2019_fix-001.jpg",
+                "Tazkia_Magazine_2019_fix-002.jpg"
+            ]
+        },
+        {
+            "judul": "#3",
+            "tahun": "Tahun 2018",
+            "feature": "https://seismolog-bit.github.io/tazkia-news/assets/magazine/2019/Tazkia_Magazine_2019_fix-003.jpg",
+            "content": [
+                "Tazkia_Magazine_2019_fix-001.jpg",
+                "Tazkia_Magazine_2019_fix-002.jpg"
+            ]
+        },
+        {
+            "judul": "#2",
+            "tahun": "Tahun 2017",
+            "feature": "https://seismolog-bit.github.io/tazkia-news/assets/magazine/2019/Tazkia_Magazine_2019_fix-004.jpg",
+            "content": [
+                "Tazkia_Magazine_2019_fix-001.jpg",
+                "Tazkia_Magazine_2019_fix-002.jpg"
+            ]
+        },
+        {
+            "judul": "#1",
+            "tahun": "Tahun 2016",
+            "feature": "https://seismolog-bit.github.io/tazkia-news/assets/magazine/2019/Tazkia_Magazine_2019_fix-010.jpg",
+            "content": [
+                "Tazkia_Magazine_2019_fix-001.jpg",
+                "Tazkia_Magazine_2019_fix-002.jpg"
+            ]
+        }
+    ],
+    "prospectus": [
+        {
+            "judul": "Made with Love",
+            "feature": "https://irit-io.id/img/about/1.jpg",
+            "isi": "Irit.io software developer merupakan tim IT yang hadir untuk menjawab kebutuhan IT anda. Kami meyakini bahwa efisiensi dan efektifitas yang ditawarkan teknologi semakin dibutuhkan oleh masyarakat di hari-hari mendatang.\n\nSejauh ini kami telah menghasilkan berbagai produk mulai dari aplikasi android, website, serta design grafik. Saat ini kami dalam jalur yang tepat untuk berkembang bersama dukungan anda.",
+            "date": "2020-07-10T17:33:45.000000Z"
+        },
+        {
+            "judul": "SLQ UMM Apps",
+            "feature": "https://irit-io.id/img/portofolio/22/ecWEBYxEL9GEzEEq.jpg",
+            "isi": "Irit.io software developer merupakan tim IT yang hadir untuk menjawab kebutuhan IT anda. Kami meyakini bahwa efisiensi dan efektifitas yang ditawarkan teknologi semakin dibutuhkan oleh masyarakat di hari-hari mendatang.\n\nSejauh ini kami telah menghasilkan berbagai produk mulai dari aplikasi android, website, serta design grafik. Saat ini kami dalam jalur yang tepat untuk berkembang bersama dukungan anda.",
+            "date": "2020-07-10T17:33:45.000000Z"
+        },
+        {
+            "judul": "Registrasi Peserta Muktamar XVIII IMM",
+            "feature": "https://irit-io.id/img/portofolio/12/CTAMGnvX9vTrloC5.jpg",
+            "isi": "Irit.io software developer merupakan tim IT yang hadir untuk menjawab kebutuhan IT anda. Kami meyakini bahwa efisiensi dan efektifitas yang ditawarkan teknologi semakin dibutuhkan oleh masyarakat di hari-hari mendatang.\n\nSejauh ini kami telah menghasilkan berbagai produk mulai dari aplikasi android, website, serta design grafik. Saat ini kami dalam jalur yang tepat untuk berkembang bersama dukungan anda.",
+            "date": "2020-07-10T17:33:45.000000Z"
+        },
+        {
+            "judul": "Quickcount Pemilu",
+            "feature": "https://irit-io.id/img/portofolio/10/Jrsi5RXCFjKvgktH.jpg",
+            "isi": "Irit.io software developer merupakan tim IT yang hadir untuk menjawab kebutuhan IT anda. Kami meyakini bahwa efisiensi dan efektifitas yang ditawarkan teknologi semakin dibutuhkan oleh masyarakat di hari-hari mendatang.\n\nSejauh ini kami telah menghasilkan berbagai produk mulai dari aplikasi android, website, serta design grafik. Saat ini kami dalam jalur yang tepat untuk berkembang bersama dukungan anda.",
+            "date": "2020-07-10T17:33:45.000000Z"
+        }
+    ]
+}
