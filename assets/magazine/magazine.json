@@ -1,8 +1,10 @@
 {
     "magazine": [
         {
+            "code": 2019,
             "judul": "#4",
             "tahun": "Tahun 2019",
+            "halaman": 204,
             "feature": "https://seismolog-bit.github.io/tazkia-news/assets/magazine/2019/Tazkia_Magazine_2019_fix-001.jpg",
             "content": [
                 "Tazkia_Magazine_2019_fix-001.jpg",
@@ -10,8 +12,10 @@
             ]
         },
         {
+            "code": 2018,
             "judul": "#3",
             "tahun": "Tahun 2018",
+            "halaman": 105,
             "feature": "https://seismolog-bit.github.io/tazkia-news/assets/magazine/2019/Tazkia_Magazine_2019_fix-003.jpg",
             "content": [
                 "Tazkia_Magazine_2019_fix-001.jpg",
@@ -19,8 +23,10 @@
             ]
         },
         {
+            "code": 2017,
             "judul": "#2",
             "tahun": "Tahun 2017",
+            "halaman": 100,
             "feature": "https://seismolog-bit.github.io/tazkia-news/assets/magazine/2019/Tazkia_Magazine_2019_fix-004.jpg",
             "content": [
                 "Tazkia_Magazine_2019_fix-001.jpg",
@@ -28,8 +34,10 @@
             ]
         },
         {
+            "code": 2016,
             "judul": "#1",
             "tahun": "Tahun 2016",
+            "halaman": 124,
             "feature": "https://seismolog-bit.github.io/tazkia-news/assets/magazine/2019/Tazkia_Magazine_2019_fix-010.jpg",
             "content": [
                 "Tazkia_Magazine_2019_fix-001.jpg",
